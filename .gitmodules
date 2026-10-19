@@ -1,6 +1,6 @@
 [submodule "submodules/goban"]
 	path = submodules/goban
-	url = https://github.com/u1162800926/goban.git
+	url = https://github.com/pengyue-Stella/goban.git
 	update = merge
 [submodule "submodules/react-dynamic-help"]
 	path = submodules/react-dynamic-help
